@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+# Write a MapReduce program which will display the number of hits
+# for each different file on the Web site.
+# How many hits were made to the page
+# /assets/js/the-associates.js
+
 import sys
 
 for line in sys.stdin:

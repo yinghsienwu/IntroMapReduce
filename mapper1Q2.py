@@ -3,8 +3,8 @@
 # Format of each line is:
 # data\ttime\tstore name\titem description\tcost\tmethod of payment
 #
-# We want elements 2 (store name) and 4 (cost)
-# We need to write them out to standard output, separated by a tab
+# Find the monetary value for the highest individual
+# sale for each separate store.
 
 import sys
 

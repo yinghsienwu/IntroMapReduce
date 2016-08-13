@@ -3,8 +3,8 @@
 # Format of each line is:
 # data\ttime\tstore name\titem description\tcost\tmethod of payment
 #
-# We want elements 2 (store name) and 4 (cost)
-# We need to write them out to standard output, separated by a tab
+# What is the total number of sales and the total sales
+# value from all the stores? Assume there is only one reducer. 
 
 import sys
 ct=0
